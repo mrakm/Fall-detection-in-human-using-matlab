@@ -18,3 +18,6 @@ Cuong Nguyen The & Dmitry Shashev “MATEC Web of Conferences”
 
 # PPT
 ## https://docs.google.com/presentation/d/1knRGFWDc0ostNcmP3Mg8fZaZWPQROc8AiOKPS7ZI3IM/edit?usp=sharing
+
+# Read Report at
+## https://drive.google.com/file/d/1q6dpZMBab6EzfZ1Sj_0kTB2OHoED1yei/view?usp=sharing
