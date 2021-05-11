@@ -15,3 +15,6 @@ Help elderly peoples who are living alone.
 It can help working parents who can not always look after their children.
 References:
 Cuong Nguyen The & Dmitry Shashev “MATEC Web of Conferences”  
+
+# PPT
+## https://docs.google.com/presentation/d/1knRGFWDc0ostNcmP3Mg8fZaZWPQROc8AiOKPS7ZI3IM/edit?usp=sharing
